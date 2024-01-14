@@ -6,7 +6,9 @@ Teftelka - good cat! :)
 1. Created account on Github – wextezer@gmail.com
 2. Created local repository
 3. Clone GITHUB Rep to Local rep.
-> Github can send me a hint with this info
+```sh
+Github can send me a hint with this info
+```
 4. Send local rep (push) to Web Rep.
 ```sh
 git push
